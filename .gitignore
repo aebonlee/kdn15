@@ -1,0 +1,10 @@
+# 테스트 스크립트
+test-*.js
+
+# 테스트 스크린샷
+*.png
+node_modules
+__pycache__
+.env
+dist
+*.pyc
